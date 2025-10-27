@@ -3,8 +3,8 @@ b1=bowl[0:3]
 b2=bowl[3:6]
 b3=bowl[6:9]
 
-w1 =sum(b1)
-w2 =sum(b2)
+w1=sum(b1)
+w2=sum(b2)
 if(9 in bowl):
     if(w1==w2):
         if(b3[0]==b3[1]):
@@ -31,3 +31,4 @@ else:
     print("Not 9gram ball in the bowl")
 
         
+
