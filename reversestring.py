@@ -3,4 +3,6 @@ x=int(input("Give the integer value :"))
 front=s[0:-x]
 last=s[len(s)-x:]
 reverse=last[::-1]
+#reverse
 print(front+reverse)
+
