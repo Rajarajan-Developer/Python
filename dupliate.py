@@ -11,6 +11,7 @@ list1=[1,2,3,4,5,6,6,6,6]
 # else:
 #     for i in range (len(list3)):
 #         print(list3[i],end=" ")
+#hello
         
   
 for b in list1:
@@ -19,3 +20,4 @@ for b in list1:
         
         
         
+
