@@ -11,6 +11,6 @@ elif(a==c):
     res=(a+c)*0.9
     print(res+b)
 else:
+     print(a+b+c)
     
-    print(a+b+c)
-    
+
