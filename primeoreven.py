@@ -15,3 +15,5 @@ else:
             print("valid")
         else:
             print("invalid")
+
+#divisble 2
